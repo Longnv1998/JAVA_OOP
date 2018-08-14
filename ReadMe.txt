@@ -5,3 +5,4 @@ git push origin
 git pull
 git merge
 -------------Longnv--------------------------------------------
+note: thieu check so nv trong manager khi nhap nhan vien thuoc manager
